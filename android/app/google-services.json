@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "569884587116",
+    "firebase_url": "https://urbaneats143.firebaseio.com",
+    "project_id": "urbaneats143",
+    "storage_bucket": "urbaneats143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569884587116:android:29e0f9933d8daea364d449",
+        "android_client_info": {
+          "package_name": "com.example.urban_eats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569884587116-3f6h0k10n3ohtlb6g10vgqhscukudkg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urban_eats",
+            "certificate_hash": "0aa9e33b95e488da00e0b316fd8d3e3dc00c7537"
+          }
+        },
+        {
+          "client_id": "569884587116-lonceqt92acc9u8nbe5v505m9g4ddsjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuuIQUrsd9OITyQTNzNDZKjIKICbrQ8TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569884587116-lonceqt92acc9u8nbe5v505m9g4ddsjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

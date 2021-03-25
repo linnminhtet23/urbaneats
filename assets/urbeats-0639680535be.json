@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "urbeats",
+  "private_key_id": "0639680535be035f23fd55f4e367d55a511703a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCll/7gBqYC/gor\nzEDGttSdwThCtMLMhgE0oxol2PWoUA651e5cZS97ZG+cSb/vD3EjDOlNabyKVlmu\nD5H50ZogVLviQ1L/RSTLKlVZKseqWKes2HHrVP6axrENMKNO8gfmAYQy38Ef9shj\nQ03NY0u4OP4xs8ITUtRHIm6q/JRYxu2yUf8X0lZBgRS0icgCLA3zbu2WYYJVxyhG\nOdPN+sj/b85bYjLr6ug+NEBoKCaHe0876FqFo7SNK16+hDZimWACP5u7whctmPB7\nWU1Eky3eQI9CCgeEJKOOIrEWkVfJyadSCSfEskMjZoB6kfREzOjMtWuniz6v1gKx\nI7jKHkFHAgMBAAECggEAE4gUBfSCzEOOi4/x6/5QobLSofuUJm9/4OeEBAbNIuce\ndYjoLnm42gMErxh7zQSzQYEaW4knNeHtffxUKXUxirKz3oI2XemX52a83mGPX2ZJ\nkLeO6EUEKtlYtMeR25PsnpJ7N0zxCIYhKKQdnyYhHj+Kq+4Z7BGO/DzxdLWKAdZz\n+jtyzmL9dhES3cd8aNPXaaLk9VdtACvqNKKxW0mAg3H194ZG8wakORuveuSdeOVi\nr58gDbJRcAV785WR1IaeBV9JuB6iOZofDlNltzCPqkj/stj+jLYa8kylqcWolUH5\ndjpH8fnznteNKBdIHFCdX13TuCdtU+Ikin65zbjVIQKBgQDnCS8BZ5uAIvQp9rOr\nbqUFvHinLGJU2xAPvHKxcAAFGe+JJ9wnlnHYYnSBwnG1zHHp9Xui3pjatculqo07\npNh34t2KlwgElmQSHwWTuTQSXN5Ozi+yQXZk5lp7Xk43B6CX0eQu4KPvZhADYm6y\nYdE2c0P3lpn4UiaMvtdgAZCAeQKBgQC3fJRJEdocoAXl8cDYAyA6CoIDHGwfpkSP\n8UYskWqC0mjXqjWeZk9supFtOYwJnkMZu7vhJ6jI8KU0cHH/gcuvW/H138OZXznh\ndXtEFuuheMBOf+J//fkJMKNRZG48SDPVRd2hhIxBCPCeWzg/URvUyt1hlk195OO0\n2VoMM03fvwKBgCGdDXC34UDoVPvR/9v+UhYekLNJ2tibsp+HfGxibi5P0rDy0q4T\nzmZ8FJVYc/DOWPiAFcfheP3BG2r0AG5gEnqG0FK8nJcGRnL4fng6pt/RESsIBpp5\nub7+YMW4N8r72hqcmAVV+6P2BnhnltFvN+AjLw1TpP0i/qbVkUJPl/WJAoGAEcxG\nwfO2WXJ4P/68OvfKp3afd9fI8ST6n4/Cw83zK+9m9gxvmQbJi31pX9PmLoSoc5WP\nOt7S83LMQ5Loq+UWMdNUXAoxee4PujvgEhG7F3WUCclD2jBzeJ28Kcf5HWXPiU92\nmRU3WZOZa3LjuNiQP4rSAIZIy/5ozAENSAOt+RcCgYEAvzhH89ouXPJsw13cUtAD\njezUuXnoKjrGPM/J08uGweggk4vnyj9IxgitlrLpGK9f9GolQVlLGRijtv/gHZzV\nVVrI/RtYHHknWGfjyyUnXm0aT4qJ/r+eQ+GrbOYgw3SDRjYpPjmN9u0FBYfXvftv\nA9gXKe8W6bkThVcB+42+Jlg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "urbeatsbotslmh@urbeats.iam.gserviceaccount.com",
+  "client_id": "104970098267356317899",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/urbeatsbotslmh%40urbeats.iam.gserviceaccount.com"
+}
