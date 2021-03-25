@@ -6,6 +6,7 @@ class Restaurant {
   String address;
   String restaurantImage;
   String time;
+  String category;
   List hours;
   GeoPoint location;
   String phno;
@@ -20,6 +21,7 @@ class Restaurant {
     restaurantImage = data['image'];
     location = data['location'];
     hours = data['hours'];
+    category = data['category'];
     phno = data['phno'];
     address = data['address'];
     views = data['images'];
