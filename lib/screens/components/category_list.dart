@@ -24,6 +24,7 @@ class Catrgory extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
                       Text(
+                        restaurantNotifier.restaurantList[index].category,
                         style: TextStyle(
                             fontWeight: FontWeight.bold, fontSize: 16.0),
                       ),
